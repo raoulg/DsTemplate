@@ -1,0 +1,8 @@
+name = "DsTemplate"
+uuid = "1d17140f-553c-4401-9566-34ae3b4d050d"
+authors = ["Raoul Grouls <raoul.grouls@businessdecision.nl>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LibGit2 = "76f85450-5226-5b5a-8eaa-529ad045b433"
